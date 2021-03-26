@@ -1,0 +1,26 @@
+SELECT * FROM book;
+--INSERT INTO book (id, title) VALUES
+--	(1, 'Harry Potter and the Philosopher''s Stone'),
+--	(2, 'Harry Potter and the Chamber of Secrets'),
+--	(3, 'Harry Potter and the Prisoner of Azkaban'),
+--	(4, 'Harry Potter and the Goblet of Fire'),
+--	(5, 'Harry Potter and the Order of the Phoenix'),
+--	(6, 'Harry Potter and the Half-Blood Prince'),
+--	(7, 'Harry Potter and the Deathly Hallows'),
+--	(8, 'The Pragmatic Programmer: Your Journey to Mastery');
+--
+--INSERT INTO author (id, first_name, last_name) VALUES
+--	(1, 'J.K.', 'Rowling'),
+--	(2, 'David', 'Thomas'),
+--	(3, 'Andrew', 'Hunt');
+--	
+--INSERT INTO books_authors (book_id, author_id) VALUES
+--	(1, 1),
+--	(2, 1),
+--	(3, 1),
+--	(4, 1),
+--	(5, 1),
+--	(6, 1),
+--	(7, 1),
+--	(8, 2),
+--	(8, 3);
